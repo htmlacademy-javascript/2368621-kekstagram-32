@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Jiguliova Marina](https://up.htmlacademy.ru/javascript/32/user/2368621).
-* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
+* Наставник: `Неизвестно`.
 
 ---
 
